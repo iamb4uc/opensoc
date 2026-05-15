@@ -26,7 +26,7 @@ The current docs cover:
 
 ## Not Covered Yet
 
-The intro post mentions future work such as agents, `auditd`, `osquery`, FleetDM OSS, Suricata, Zeek, SOAR, Windows/macOS agents, and Splunk. Those are not documented here yet because the published setup posts have not covered them.
+The intro post mentions future work such as agents, `auditd`, `osquery`, FleetDM OSS, Suricata, Zeek, SOAR, Windows/macOS agents, and Splunk. Those are not documented here yet because the published setup posts have not covered them. I will implement them and get them documented here along with config files and other stuffs
 
 ## License
 
